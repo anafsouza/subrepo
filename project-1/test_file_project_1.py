@@ -10,6 +10,14 @@ def add(a, b):
     return a + b
 
 def subtract(a, b):
+    """Compute the difference between two numbers.
+    Args:
+        a (int, float): The first number.
+        b (int, float): The second number.
+
+    Returns:
+        int, float: The difference of a and b.
+    """
     return a - b
 
 def multiply(a, b):
