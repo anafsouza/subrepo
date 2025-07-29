@@ -21,4 +21,11 @@ def subtract(a, b):
     return a - b
 
 def multiply(a, b):
+    """Compute the product of two numbers.
+    Args:
+        a (int, float): The first number.
+        b (int, float): The second number.  
+    Returns:
+        int, float: The product of a and b. 
+    """
     return a * b
