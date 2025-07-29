@@ -1,4 +1,4 @@
-# Some mathematical operations.
+# Some mathematical operations
 def add(a, b):
     """Compute the sum of two numbers.
     Args:
