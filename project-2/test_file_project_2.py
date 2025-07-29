@@ -1,5 +1,2 @@
-def first_dict_key(d):
-    """Return the first key of a dictionary."""
-    if not d:
-        return None
-    return next(iter(d))
+def dummy_function():
+    return "This is a dummy function for testing purposes."
