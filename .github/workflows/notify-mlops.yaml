@@ -17,4 +17,4 @@ jobs:
             -H "Accept: application/vnd.github.everest-preview+json" \
             https://api.github.com/repos/anafsouza/mlops-main-repo-submodules/dispatches \
             -d '{"event_type": "update-from-subrepo"}'
-          echo "Notification sent to main-repo-submodules for subrepo update."
+          echo "Notification sent to mlops-main-repo-submodules for subrepo update."
